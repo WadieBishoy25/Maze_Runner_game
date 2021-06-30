@@ -1,0 +1,22 @@
+.button{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+.button:hover{
+    
+  -fx-font-vhight: bold; 
+  -fx-background-color: transparent;
+  -fx-border-color: transparent;
+    -fx-text-fill: red;
+  -fx-border-width: 1;
+}
+.button:pressed{
+  -fx-font-vhight: bold; 
+  -fx-background-color: transparent;
+  -fx-border-color: transparent;
+    -fx-text-fill: red;
+
+  -fx-border-width: 2; 
+}

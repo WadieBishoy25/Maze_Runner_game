@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/Wall.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/Observer.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/ArmorState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/ShootingPlayer.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/Originator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/view/InfoPanel.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/ArmorGift.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/GiftFactory.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/LargeBomb.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/HittingBombWithoutArmorState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/RightDirectionState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/ContextMoving.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/WoodenWall.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/AmmoGiftDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/ContextArmor.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/player.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/GiftDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/Gift.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/MovingDirectionState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/HealthGift.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/ArmorGiftDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/view/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/view/BulletImage.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/maze.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/CareTaker.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/SmallBomb.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/PlayerDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/AmmoGift.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/cell.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/GameEngine.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/LeftDirectionState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/ExplosionBomb.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/view/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/BombDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/HittingBombWithArmorState.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/mazeGenerator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/Bomb.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/MazeEngine.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/Subject.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/Memento.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/controller/GameController.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/Bullet.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/DestroyedGift.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/concreteWall.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/HealthGiftDecorator.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/PlayerProp.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/view/JavaFXApplication4.java</file>
+            <file>file:/C:/Users/wadiebishoy/Documents/NetBeansProjects/Maze/src/maze/model/BombFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
